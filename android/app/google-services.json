@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707439420696",
+    "project_id": "things-stufs",
+    "storage_bucket": "things-stufs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707439420696:android:7f2f10769720107c722a6d",
+        "android_client_info": {
+          "package_name": "com.example.thing_stuffs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707439420696-9ghv83l39mnmk3eqp6sa0h88kh4qiuu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkPy-TN5qvla1b_Ma_ihibxXybd1ddiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707439420696-9ghv83l39mnmk3eqp6sa0h88kh4qiuu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
